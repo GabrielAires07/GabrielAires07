@@ -21,7 +21,7 @@
 <div>
  <a href="https://api.whatsapp.com/send?phone=5534992203725&text=Ol%C3%A1!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
  <a href="https://www.instagram.com/gabriel.aires.359"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
- <a href="gabriel.aires07@outlook.com"><img src="https://img.shields.io/badge/-outlook-0078d4?style=for-the-badge&logo=appveyor" /></a>
+ <a href="gabriel.aires07@outlook.com"><img src="https://img.shields.io/badge/-outlook-0078d4?style=for-the-badge&logo=microsoftoutlook" /></a>
  <a href="https://www.linkedin.com/in/gabriel-aires-122428184/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
