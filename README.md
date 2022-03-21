@@ -35,4 +35,4 @@
 
 <!-- github workflow  -->
 
-![snake gif](https://github.com/GabrielAires07/GabrielAires07/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/GabrielAires07/GabrielAires07/blob/output/github-contribution-grid-snake.gif)
