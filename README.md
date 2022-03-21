@@ -27,13 +27,17 @@
  <a href="https://www.linkedin.com/in/gabriel-aires-122428184/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
+ <!--
 ## Visitas no pefil - Atividade
-
+-->
 <!-- Contador de visitas  -->
 
+ <!--
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/GabrielAires07/count.svg" />  
 </p>
+ 
+ -->
 
 <!-- github workflow  -->
 <!--
