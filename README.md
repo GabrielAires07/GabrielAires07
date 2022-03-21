@@ -35,4 +35,4 @@
 
 <!-- github workflow  -->
 
- ![github contribution grid snake animation](https://raw.githubusercontent.com/GabrielAires07/GabrielAires07/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/GabrielAires07/GabrielAires07/blob/output/github-contribution-grid-snake.svg)
