@@ -13,6 +13,8 @@
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+
 
 </div>
  
@@ -34,5 +36,6 @@
 </p>
 
 <!-- github workflow  -->
-
+<!--
 ![snake gif](https://github.com/GabrielAires07/GabrielAires07/blob/output/github-contribution-grid-snake.gif)
+-->
